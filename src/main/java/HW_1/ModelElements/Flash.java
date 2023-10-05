@@ -10,10 +10,8 @@ public class Flash {
     public float Power;
 
     public void Rotate(Angle3D angleAction) {
-
     }
 
     public void Move(Point3D pointAction){
-
     }
 }
